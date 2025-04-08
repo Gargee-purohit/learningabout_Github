@@ -1,2 +1,3 @@
 # learningabout_Github
 this is my first repository and I am learning about Github in this.
+Author - Gargee Purohit
